@@ -12,7 +12,7 @@ Stack: React (create-react-app), Redux, Firebase, Node.js
 
 ## Live Demo
 
-    https://crapmap-c5c7f.firebaseapp.com/
+    [View the live demo here! link] (https://crapmap-c5c7f.firebaseapp.com/)
 
 ## Who
 
